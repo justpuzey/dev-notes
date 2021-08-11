@@ -1,0 +1,27 @@
+{
+  "git bash": {},
+
+  "git desktop": {},
+
+  "git": {
+    "installation": "download and install"
+  },
+
+  "visual studio": {
+    "installation": {
+      "installation configuration": "add 'Open with Code' action to Windows Explorer file context menu"
+    },
+    "configuration": {
+      "format on save": {
+        "Editor: Format On Save": "search in command pallet and enable",
+        "format document": "run in command pallet to select format managment tool"
+      }
+    },
+    "extensions": {
+      "live server": "Live Server",
+      "open in browser": "Open in Browser",
+      "prettier": "code-formatter",
+      "material icon theme": "icon theme"
+    }
+  }
+}

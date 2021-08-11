@@ -1,0 +1,16 @@
+installation {
+    installation configuration: 'add "Open with Code" action to Windows Explorer file context menu'
+}
+
+configuration {
+
+}
+
+extensions {
+    ext-name: 'Live Server'
+    ext-name: 'Open in Browser'
+    code-formatter: 'Prettier'
+    icon-theme: 'Material Icon Theme'
+}
+
+

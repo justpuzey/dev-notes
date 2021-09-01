@@ -8,9 +8,12 @@ configuration {
 
 extensions {
     ext-name: 'Live Server'
+    html-boilerplate: 'HTML Boilerplate'
     ext-name: 'Open in Browser'
     code-formatter: 'Prettier'
     icon-theme: 'Material Icon Theme'
+    color-theme: 'Ayu Mirage'
+    react-snippets: 'Simple React Snippets'
 }
 
 

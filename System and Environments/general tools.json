@@ -11,17 +11,30 @@
     "installation": {
       "installation configuration": "add 'Open with Code' action to Windows Explorer file context menu"
     },
-    "configuration": {
+    "configuration options": {
       "format on save": {
-        "Editor: Format On Save": "search in command pallet and enable",
-        "format document": "run in command pallet to select format managment tool"
+        "name": "Format on Save",
+        "description": "",
+        "instructions": {
+          "step 1": "Install and enable document formatter such as Prettier",
+          "step 2": "navigate to File>Preferences>Settings",
+          "step 3": "In settings, search for 'format on save'",
+          "step 4": "select the checkbox to enable format on save option"
+        }
+      },
+      "HTML Boilerplate": {
+        "name": "HTML Boilerplate"
+      },
+      "Color Theme": {
+        "name": "Ayu Mirage"
       }
     },
     "extensions": {
       "live server": "Live Server",
       "open in browser": "Open in Browser",
       "prettier": "code-formatter",
-      "material icon theme": "icon theme"
+      "material icon theme": "icon theme",
+      "simple react snippets": "react snippet"
     }
   }
 }
